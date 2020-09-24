@@ -3,3 +3,6 @@ I am going to be doing all the assingments in rust and c cuz why not. I will try
 
 ## C
 > run `make` to compile
+
+## Rust
+> rustc main.rs && ./main
